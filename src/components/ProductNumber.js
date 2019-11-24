@@ -3,7 +3,7 @@ import React from 'react'
 const ProductNumber = () => {
   return (
     <div>
-      <h1>ProductNumber  component</h1>
+      <h5>16 Products found(s)</h5>
     </div>
   )
 }
